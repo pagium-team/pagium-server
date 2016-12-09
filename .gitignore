@@ -1,0 +1,5 @@
+node_modules
+prds
+conf/db
+conf/dbConf.js
+conf/ftpConf.js
